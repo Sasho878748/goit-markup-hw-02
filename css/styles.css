@@ -27,12 +27,12 @@
 .page-body {
     font-family: 'Roboto' , sans-serif ;
     font-size: 16px;
-    color:var(--main-p-color)
+    color:var(--main-p-color);
     background-color: var(--main-light-color);
 }
 /* header */
 .logo-link {
-font-family: 'Raleway';
+font-family: 'Raleway' , sans-serif ;
 /* font-style: normal; */
 font-weight: 800;
 font-size: 18px;
